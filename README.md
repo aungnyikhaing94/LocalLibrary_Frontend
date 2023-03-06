@@ -1,8 +1,16 @@
-# Local Library Frontend
+# LocalLibrary (Frontend)
 
-In the project directory, run the following command to install the required modules.
+Hello! Welcome to Local Library system.
 
-### `npm install -f`
+In order to use this app, you will need to launch the React app and the Spring Boot app separately.
+
+To launch the React app
+
+In the project directory, run the following commands in terminal.
+
+If it is your first time launching this app, run the following command to download the needed packages to run the app.
+
+### `npm install`
 
 To start the frontend server, run the following command.
 
